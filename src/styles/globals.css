@@ -19,8 +19,15 @@ a {
   html {
     color-scheme: dark;
   }
+
   body {
-    color: white;
-    background: black;
+    color: #212529;
+    background: #f8f9fa;
+
+    width: 100%;
+    max-width: 480px;
+
+    margin: 0 auto;
+    padding: 32px 16px;
   }
 }
